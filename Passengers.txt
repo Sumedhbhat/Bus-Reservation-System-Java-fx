@@ -1,0 +1,3 @@
+Firstname 	 LastName 	 Age 	 Gender 	 Boarding Point 	 Destination
+Sujay	 M	19	M	bangalore	mangalore
+Sumedh	 B	18	M	mangalore	bangalore
